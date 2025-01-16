@@ -2,12 +2,19 @@ h1 {
     text-align: center;
     color: blue;
   }
+  h2 {
+    text-align: center;
+    color: brown;
+  }
   button {
     color:brown;
-  }
-  .img{
-    width: 60%;
+    display: block;
     margin: 0 auto;
+    border-radius: 10px;
+  }
+  img{
+    
+    margin: 0px auto;
     margin: 20px auto;
     border-radius: 20px;
     display: block;
