@@ -5,3 +5,10 @@ h1 {
   button {
     color:brown;
   }
+  .img{
+    width: 60%;
+    margin: 0 auto;
+    margin: 20px auto;
+    border-radius: 20px;
+    display: block;
+  }
